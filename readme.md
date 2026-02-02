@@ -8,6 +8,7 @@ This project is a clone of the Cursor.ai landing page, created using only HTML a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -17,7 +18,6 @@ This project replicates the clean and modern design of the Cursor.ai landing pag
 The project was created as part of the Chai and Code Web Dev Cohort.
 
 ## Features
-
 
 - **Navigation Bar**: Responsive navigation bar with hover effects.
 - **Call-to-Action Buttons**: Includes "Sign In" and "Download" buttons with interactive hover states.
@@ -43,6 +43,16 @@ The project was created as part of the Chai and Code Web Dev Cohort.
    cd cursor-landing-clone
    ```
 3. Open the `landing-page.html` file in your browser to view the webpage.
+
+## Screenshots
+
+Here are some screenshots of the project:
+
+### Screenshot 1
+![Screenshot 1](screenshots/1.jpg)
+
+### Screenshot 2
+![Screenshot 2](screenshots/2.jpg)
 
 ## Acknowledgements
 
