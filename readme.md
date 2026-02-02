@@ -8,7 +8,6 @@ This project is a clone of the Cursor.ai landing page, created using only HTML a
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [Screenshots](#screenshots)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -19,7 +18,7 @@ The project was created as part of the Chai and Code Web Dev Cohort.
 
 ## Features
 
-- **Responsive Design**: Optimized for different screen sizes.
+
 - **Navigation Bar**: Responsive navigation bar with hover effects.
 - **Call-to-Action Buttons**: Includes "Sign In" and "Download" buttons with interactive hover states.
 - **Testimonial Section**: Displays user testimonials in a responsive grid layout.
@@ -37,28 +36,17 @@ The project was created as part of the Chai and Code Web Dev Cohort.
 
 1. Clone the repository or download the files:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/undersolved/cursor-landing-clone.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd cursor-ai-landing-page-clone
+   cd cursor-landing-clone
    ```
-3. Open the `index.html` file in your browser to view the webpage.
-
-## Screenshots
-
-### Header and Navigation Bar
-![Header and Navbar Screenshot](https://your-image-url-example.com)
-
-### Testimonial Section
-![Testimonial Screenshot](https://your-image-url-example.com)
-
-### Footer
-![Footer Screenshot](https://your-image-url-example.com)
+3. Open the `landing-page.html` file in your browser to view the webpage.
 
 ## Acknowledgements
 
 This project was inspired by the **[Cursor.ai](https://www.cursor.ai/)** landing page. Created as a part of the **Chai and Code Web Dev Cohort** to improve web development skills.
 
 --- 
-Feel free to contribute or share your feedback. Happy Coding! 😊
+Feel free to contribute or create a pull request. 😊
