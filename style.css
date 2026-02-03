@@ -1,18 +1,14 @@
 .container {
   margin: 0 auto;
-  max-width: calc(100% - 400px); 
-  padding: 0; 
-  
+  max-width: calc(100% - 400px);
+  padding: 0;
 }
-
-
-
 
 body {
   margin: 0;
   font-family: Arial, sans-serif;
   font-size: 16px;
-  color: #E5E4E2;
+  color: #e5e4e2;
   background-color: #110f11;
 }
 
@@ -21,7 +17,7 @@ body {
   align-items: center;
   justify-content: space-between;
   background-color: #121212;
-  padding: 10px 0; 
+  padding: 10px 0;
 }
 
 .wordmark {
@@ -45,13 +41,13 @@ body {
 
 .nav-links a {
   text-decoration: none;
-  color: #E5E4E2;
+  color: #e5e4e2;
   font-size: 16px;
   transition: color 0.3s ease;
 }
 
 .nav-links a:hover {
-  color: #B2BEB5; 
+  color: #b2beb5;
 }
 
 .action-buttons {
@@ -71,80 +67,82 @@ body {
 
 .sign-in {
   background-color: transparent;
-  color: #E5E4E2;
-  border: 1px solid #E5E4E2;
+  color: #e5e4e2;
+  border: 1px solid #e5e4e2;
 }
 
 .sign-in:hover {
-  background-color: #E5E4E2;
+  background-color: #e5e4e2;
   color: #110f11;
 }
 
 .download {
-  background-color: #E5E4E2;
+  background-color: #e5e4e2;
   color: #110f11;
   border: none;
 }
 
 .download:hover {
-  background-color: #B2BEB5;
+  background-color: #b2beb5;
 }
 
-.block-1 button:hover{
-    background-color: #110f11;
-    color: #E5E4E2;
-    border: #B2BEB5 1px solid;
-    transform: scale(0.9);
+.block-1 button:hover {
+  background-color: #110f11;
+  color: #e5e4e2;
+  border: #b2beb5 1px solid;
+  transform: scale(0.9);
 }
 
-.block-2{
-    margin: 0 auto;
-    max-width: calc(100% - 400px);
-    height: calc(100vh - 80px);
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
+.block-2 {
+  margin: 0 auto;
+  max-width: calc(100% - 400px);
+  height: calc(100vh - 80px);
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
 }
 
 .image-large {
-    max-width: 100%; 
-    max-height: 100%; 
-    height: auto; 
-    object-fit: contain; 
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  object-fit: contain;
 }
 
 .text-block-container {
-    max-width: calc(100% - 400px); 
-    margin: 0 auto; 
-    display: flex;
-    justify-content: space-between; 
-    flex-wrap: wrap; 
-    gap: 20px; 
-    padding: 20px 0;
-    background-color: #161416; 
+  max-width: calc(100% - 400px);
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px 0;
+  background-color: #161416;
 }
 
 .text-block {
-    display: flex;
-    align-items: center; 
-    justify-content: center; 
-    width: 150px; 
-    height: 80px; 
-    background-color: #161416; 
-    border: 2px solid #fff8f8; 
-    color: #E5E4E2; 
-    font-size: 18px; 
-    /* text-transform: uppercase;  */
-    font-family: 'Arial', sans-serif;
-    font-weight: bold;
-    border-radius: 6px; /* Add rounded corners to the block */
-    transition: background-color 0.3s, color 0.3s; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 80px;
+  background-color: #161416;
+  border: 2px solid #fff8f8;
+  color: #e5e4e2;
+  font-size: 18px;
+  /* text-transform: uppercase;  */
+  font-family: "Arial", sans-serif;
+  font-weight: bold;
+  border-radius: 6px; /* Add rounded corners to the block */
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 
 .text-block:hover {
-    background-color: #B2BEB5; 
-    color: #110f11; 
-    cursor: pointer; 
+  background-color: #b2beb5;
+  color: #110f11;
+  cursor: pointer;
 }
 
 body {
@@ -196,10 +194,9 @@ body {
 
 .button-container {
   text-align: center;
-  margin: 1rem 0; 
+  margin: 1rem 0;
   margin-top: -40px;
   margin-bottom: 40px;
-
 }
 
 .download-button {
@@ -211,7 +208,9 @@ body {
   border-radius: 6px;
   font-weight: bold;
   display: inline-block;
-  transition: background-color 0.3s, transform 0.3s;
+  transition:
+    background-color 0.3s,
+    transform 0.3s;
 }
 
 .download-button:hover {
@@ -220,7 +219,7 @@ body {
 }
 
 .footer {
-  background-color: #1C1C1C;
+  background-color: #1c1c1c;
   color: #fff;
   padding: 40px 20px;
   font-size: 0.875rem;
